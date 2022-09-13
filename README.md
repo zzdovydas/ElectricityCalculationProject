@@ -8,3 +8,4 @@
 * Sqlite
 * Serilog (logging)
 * CSVHelper (to process .csv files from data.gov.lt site)
+* Swagger (for easy API navigation)
