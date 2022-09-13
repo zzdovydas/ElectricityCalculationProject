@@ -13,3 +13,4 @@
 ## In future
 * Need to write unit and integration tests
 * Refactoring
+* More in-depth logging
